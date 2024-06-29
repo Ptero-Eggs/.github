@@ -16,3 +16,6 @@ Generic languge eggs such as nodejs, python, etc
 
 ### Yolks (and installer images)
 All yolks and installer images are in our [yolks](https://github.com/Ptero-Eggs/yolks) repository. You can also see all built docker images on our [packages page](https://github.com/orgs/Ptero-Eggs/packages).
+
+### Want to contribute?
+View our [contributing guide](https://github.com/Ptero-Eggs/.github/blob/main/profile/CONTRIBUTING.md)
