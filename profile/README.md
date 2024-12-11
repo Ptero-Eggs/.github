@@ -8,7 +8,7 @@
 All game server eggs
 
 [Application Eggs](https://github.com/Ptero-Eggs/application-eggs)
-Applictions that are not game servers
+Applications that are not game servers
 
 [Generic Eggs](https://github.com/Ptero-Eggs/generic-eggs)
 Generic languge eggs such as nodejs, python, etc
