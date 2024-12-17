@@ -1,6 +1,7 @@
 # Pterodactyl Eggs
 ## Community Egg Repository
 
+## [Search Our Eggs](https://PterodactylEggs.com)
 
 ### Eggs
 
